@@ -1,0 +1,7 @@
+UPDATE `tbl_emp` SET 'lname'='Weber' SET 'lname'='Weber-Williams';
+UPDATE `tbl_emp` SET 'age'='45' SET 'age'='46';
+UPDATE `tbl_emp` SET 'title'='Secretary' SET 'title'='Admin Asst';
+UPDATE `tbl_emp` SET 'salary'='19500','25000' SET 'salary'='23000','28500';
+UPDATE `tbl_emp` SET 'salary'='45300','75020','34000','80000' SET 'salary'='49800','79520','38500','84500';
+UPDATE `tbl_emp` SET `title`='Prog' WHERE 'title'='Prog II';
+UPDATE `tbl_emp` SET `title`='Prog II' WHERE 'title'='Prog III';
